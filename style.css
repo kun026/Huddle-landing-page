@@ -71,6 +71,7 @@ main {
   background-position: center;
   background-repeat: no-repeat;
   background-color: var(--clr-primary);
+  min-height: 100vh;
 }
 
 h1,p {
